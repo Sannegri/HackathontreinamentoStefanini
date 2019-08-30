@@ -1,1 +1,2 @@
 # HackathontreinamentoStefanini
+Todo o Projeto foi criado em cima das linguagens nas quais tinham sido sugeridas. Utilizei de alguns conhecimentos e lembranças do dia do desafio/WorkShop no qual mudei e incrementei algumas coisas como elas uma melhora na hora de incrementar e decrementar os pontos e criar o personagem mutante. Utilizei um pouco do OpenJDK e de TypeScript para terminar, e o resultado final foi o que está acima.

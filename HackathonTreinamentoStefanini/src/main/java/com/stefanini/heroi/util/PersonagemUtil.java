@@ -14,7 +14,7 @@ import com.stefanini.heroi.dto.PersonagemDto;
 public class PersonagemUtil {
 	
 	//Variáveis final
-	final String arquivo = "C:/Users/mathe/Documents/wsSpring/stefaninimarveldc/stefaninimarveldc/stefanini/src/main/java/com/stefanini/heroi/controller/charcters_stats.csv";
+	final String arquivo = "C:/Users/hiank/Desktop/Stefanini/HackathontreinamentoStefanini/HackathonTreinamentoStefanini/src/main/java/com/stefanini/heroi/controller";
 	
 	public PersonagemUtil(){
 		
